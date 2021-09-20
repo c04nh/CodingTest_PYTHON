@@ -1,3 +1,4 @@
+# 1단계
 # K번째수
 
 def solution(array, commands):

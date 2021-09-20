@@ -1,3 +1,4 @@
+# 1단계
 # 약수의 합
 
 def solution(n):

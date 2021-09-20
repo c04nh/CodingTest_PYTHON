@@ -1,3 +1,4 @@
+# 1단계
 # 내적
 
 def solution(a, b):

@@ -1,3 +1,4 @@
+# 1단계
 # 약수의 개수와 덧셈
 
 def solution(left, right):

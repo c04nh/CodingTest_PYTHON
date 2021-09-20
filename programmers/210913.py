@@ -1,3 +1,4 @@
+# 1단계
 # 같은 숫자는 싫어
 
 def solution(arr):
