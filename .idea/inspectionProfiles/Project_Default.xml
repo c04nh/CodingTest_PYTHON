@@ -13,6 +13,9 @@
         <list>
           <option value="int.__getitem__" />
           <option value="수행.theater.Choice_Restaurunt" />
+          <option value="tuple.insert" />
+          <option value="tuple.length" />
+          <option value="list.length" />
         </list>
       </option>
     </inspection_tool>
