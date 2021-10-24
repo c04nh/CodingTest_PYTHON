@@ -1,5 +1,5 @@
 # 1단계
-# 폰켄몬
+# 폰켓몬
 
 def solution(nums):
     answer = 0
