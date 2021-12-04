@@ -15,3 +15,4 @@ for a in range(num):
 	else:
 		print_arr.append(string)
 	print(print_arr[a])
+
